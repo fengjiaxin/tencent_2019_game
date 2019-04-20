@@ -1,0 +1,7 @@
+nohup: ignoring input
+INFO:root:../data/testA/ad_op_mid.txt already exits
+INFO:root:../data/testA/ad_op_mid2.txt already exits
+INFO:root:../data/testA/ad_static_feature.out load success
+INFO:root:../data/testA/ad_op_mid2.txt load success
+INFO:root:merge success
+INFO:root:../data/testA/ad_static_dynamic_merge.csv dump success

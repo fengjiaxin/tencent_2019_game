@@ -1,0 +1,13 @@
+INFO:root:../data/testA/group_data/exposure_group_0.csvalready exists
+INFO:root:../data/testA/group_data/exposure_group_1.csvalready exists
+INFO:root:../data/testA/group_data/exposure_group_2.csvalready exists
+INFO:root:../data/testA/group_data/exposure_group_3.csvalready exists
+INFO:root:../data/testA/group_data/exposure_group_4.csvalready exists
+INFO:root:../data/testA/group_data/exposure_group_5.csvalready exists
+INFO:root:../data/testA/group_data/exposure_group_6.csvalready exists
+INFO:root:../data/testA/group_data/exposure_group_7.csvalready exists
+INFO:root:../data/testA/group_data/exposure_group_8.csvalready exists
+INFO:root:../data/testA/group_data/exposure_group_9.csvalready exists
+INFO:root:start handle merge group data
+INFO:root:merge success
+INFO:root:../data/testA/exposure_group_all.csv dump success
